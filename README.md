@@ -1,6 +1,6 @@
 # 🌱 getgrass-miner-bot-js
 
-## GetGrass Season 2 mining
+## #GetGrass Season 2 mining
 
 - A Node.js bot script to automate grass Season 2 mining.
 
